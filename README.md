@@ -1,5 +1,4 @@
-# ENCRYPTIX
-Task 1 : Titanic survival prediction
+#Task 1 : Titanic survival prediction
 Data Preparation
 Loading the Dataset: The Titanic dataset is loaded into a Pandas DataFrame.
 Dropping Unnecessary Columns: Columns PassengerId, Name, Ticket, and Cabin are removed as they are not useful for the prediction.
